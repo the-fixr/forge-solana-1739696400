@@ -1,0 +1,17 @@
+{
+  "version": "1",
+  "name": "SolPulse",
+  "homeUrl": "https://sol-pulse.vercel.app",
+  "imageUrl": "https://sol-pulse.vercel.app/og-image.png",
+  "iconUrl": "https://sol-pulse.vercel.app/icon.png",
+  "button": {
+    "title": "Launch SolPulse",
+    "action": {
+      "type": "launch_frame",
+      "name": "SolPulse",
+      "url": "https://sol-pulse.vercel.app",
+      "splashImageUrl": "https://sol-pulse.vercel.app/icon.png",
+      "splashBackgroundColor": "#0a0a0a"
+    }
+  }
+}
